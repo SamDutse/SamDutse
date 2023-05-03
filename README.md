@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamDutse
 - 👀 I’m interested in Data analytics/Data science
-- 🌱 I’m currently learning Advance SQL and Advance Python
-- 💞️ I’m looking to collaborate on any project that is data driven to solve problems and make great business decisions
+- 🌱 I’m currently learning Advance SQL and Advance Python and open to work
+- 💞️ I’m looking to collaborate on any project that is data driven to solve problems and make great business decisions 
 - 📫 You can reach me on LinkedIn @ www.linkedin.com/in/samdutse
 
 <!---
