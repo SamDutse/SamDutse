@@ -9,7 +9,7 @@ Experienced Data Scientist skilled in Advanced Analytics and Machine Learning, t
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [MyPortfolio](http://sites.google.com/view/samdutse/portfolio)
 * ✉️  You can contact me at [samuelyauladutse@gmail.com](mailto:samuelyauladutse@gmail.com)
-* 🚀  I'm currently working on [An AI Clinical Decision Support System](http://github.com/SamDutse/HealthInsightAI)
+* 🚀  I'm currently working on automating most local challenges in Nigeria that requires a Machine Learning Solution [Check my Repo](https://github.com/SamDutse?tab=repositories)
 * 🧠  I'm learning Tensorflow and Pytorch
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am the 11thMan
